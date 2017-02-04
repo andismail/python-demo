@@ -2,7 +2,7 @@
 import os
 import sys
 
-# git branch test 02
+#git reset test
 if __name__ == "__main__":
     os.environ.setdefault("DJANGO_SETTINGS_MODULE", "django_demo.settings")
     try:
