@@ -5,6 +5,7 @@ import sys
 #other colleague commit: babbablalb
 #01.bug fix 222: bablab
 #02.new feature 001:babababalal
+#git reset test
 if __name__ == "__main__":
     os.environ.setdefault("DJANGO_SETTINGS_MODULE", "django_demo.settings")
     try:
